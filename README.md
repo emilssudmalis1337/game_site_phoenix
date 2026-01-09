@@ -20,7 +20,8 @@ Web aplikāciju iespējams lietot, pārlukprogrammā atverot URL localhost:4000/
 
 Ekrānšāviņi un īss apraksts:
 
-...
+<img width="2560" height="1323" alt="image" src="https://github.com/user-attachments/assets/f2f25a1d-cb8e-4df1-baa7-963cd19be95d" />
+
 Galvenais "GameSite" skats, kurā redzama tabula ar visām pievienotajām spēlēm.
 ...
 Jaunas spēles pievienošanas skats.
