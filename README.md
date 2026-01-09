@@ -49,5 +49,11 @@ Salīdzinājuma tabula:
 
 |               | Phoenix       | Django        |
 | ------------- | ------------- | ------------- |
-| Valoda  | Content Cell  | Content Cell  |
+| Valoda        | Elixir        | Python        |
+| Paradigma     | Funkcionāla   | Objektorientēta  |
+| Veiktspēja  | Laba lielākā daļā gadījumu, augstam lietotāju skaitam nepieciešama optimizācija  | Izcila, iztur miljoniem savienojumu uz 1 servera  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
