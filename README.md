@@ -52,8 +52,6 @@ Salīdzinājuma tabula:
 | Valoda        | Elixir        | Python        |
 | Paradigma     | Funkcionāla   | Objektorientēta  |
 | Veiktspēja  | Laba lielākā daļā gadījumu, augstam lietotāju skaitam nepieciešama optimizācija  | Izcila, iztur miljoniem savienojumu uz 1 servera  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Izstrādes ātrums  | Ātrs  | Samērā ātrs, bet ir jāapgūst funkcionālās programmēšanas koncepti  |
+| Reāllaika funkcijas  | Nepieciešams Django Channels  | Iebūvēta LiveView un Channels funkcionalitāte bez papildus konfigurācijas  |
+| Datubāze  | Django ORM, kas atbalst lielāko daļu lielo datubāzu | Ecto, PostgreSQL ir rekomendēts  |
