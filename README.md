@@ -1,4 +1,4 @@
-Komandas dalībnieki: Sudmalis, Berbeņovs
+Komandas dalībnieki: Berbeņovs, Sudmalis
 
 Projekta nosaukums: Videospēļu datubāzes sistēma "GameSite" Phoenix ietvarā
 
