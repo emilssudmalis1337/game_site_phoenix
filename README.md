@@ -56,3 +56,12 @@ Salīdzinājuma tabula:
 | Reāllaika funkcijas  | Nepieciešams Django Channels  | Iebūvēta LiveView un Channels funkcionalitāte bez papildus konfigurācijas  |
 | Datubāze  | Django ORM, kas atbalst lielāko daļu lielo datubāzu | Ecto, PostgreSQL ir rekomendēts  |
 | Failu hierarhija  | Skaidra | Mazāk skaidra nekā Django (mūsuprāt)  |
+
+Phoenix priekšrocības un trūkumi:
+
+| Priekšrocības | Trūkumi       |
+| ------------- | ------------- |
+| Augsts ātrums, veiktspēja        | Stāva mācīšanās līkne        |
+| Funkcionālās programmēšanas izmantošana nozīmē nemainīgus datus un blakus efektu mazināšanos        | Samērā maz dokumentācijas        |
+| Viegli veidot programmas, kurās dati ir aizsargāti        | Sākotnējā konfigurācija salīdzinoši gara        |
+| Lieliska mērogojamība        | Salīdzinoši maz programmētāju, kas to izmanto        |
