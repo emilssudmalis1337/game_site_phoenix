@@ -43,7 +43,7 @@ Arhitektūras diagramma un apraksts:
 
 ![IMG-20260109-WA0007](https://github.com/user-attachments/assets/c1d22810-8a00-4c37-8055-8ae957b67a49)
 
-...
+Var teikt, ka šīs mājaslapas darbība pamatā balstās uz 3 galvenajiem moduļiem: Phoenix Web daļu, Pašas spēles kontekstu, kā arī datubāzes datu pārvaldību. Pēc tam, kad caur Phoenix tiek izdarīts _backend_ darbs, dati tiek sūtīti uz spēles kontekstu, kur tiek izsauktas attiecīgās spēles pievienošanas, rediģēšanas vai dzēšanas funkcijas. Šis vaicājums pēc tam pāriet uz datubāzi, kurā ar SQL vaicājumu tiek veiktas IUD darbības.
 
 Salīdzinājuma tabula:
 
