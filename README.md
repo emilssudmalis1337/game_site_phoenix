@@ -20,14 +20,19 @@ Web aplikāciju iespējams lietot, pārlukprogrammā atverot URL localhost:4000/
 
 Ekrānšāviņi un īss apraksts:
 
-<img width="2560" height="1323" alt="image" src="https://github.com/user-attachments/assets/f2f25a1d-cb8e-4df1-baa7-963cd19be95d" />
+<img width="2559" height="589" alt="image" src="https://github.com/user-attachments/assets/431a6394-b2fc-4ebf-a22f-92c758dbdc14" />
+
 
 Galvenais "GameSite" skats, kurā redzama tabula ar visām pievienotajām spēlēm.
-...
+<img width="2560" height="770" alt="image" src="https://github.com/user-attachments/assets/663e6df6-ffee-4439-a74d-6a6d638cd7af" />
+
 Jaunas spēles pievienošanas skats.
-...
+<img width="2560" height="724" alt="image" src="https://github.com/user-attachments/assets/8dabec8a-62c1-48a0-8722-366f3ba698f8" />
+
 Spēles rediģēšanas skats.
-...
+
+![funkc_gif](https://github.com/user-attachments/assets/ea3bf81e-2b8c-4787-b692-ff5c4522ee42)
+
 Skats, kurā, vienam lietotājam pievienojot jaunu spēli, tā uzreiz parādās arī citam lietotājam.
 
 Izmantoto bibliotēku saraksts:
@@ -36,7 +41,8 @@ Projektā nav izmantotas trešo pušu bibliotēkas, taču ir izmantotas iebūvē
 
 Arhitektūras diagramma un apraksts:
 
-...
+![IMG-20260109-WA0007](https://github.com/user-attachments/assets/c1d22810-8a00-4c37-8055-8ae957b67a49)
+
 ...
 
 Salīdzinājuma tabula:
