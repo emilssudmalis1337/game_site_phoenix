@@ -49,5 +49,5 @@ Salīdzinājuma tabula:
 
 |               | Phoenix       | Django        |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
+| Valoda  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
