@@ -47,4 +47,7 @@ Var teikt, ka šīs mājaslapas darbība pamatā balstās uz 3 galvenajiem modu�
 
 Salīdzinājuma tabula:
 
-...
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
