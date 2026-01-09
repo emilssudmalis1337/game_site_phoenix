@@ -15,7 +15,7 @@ Ja tās nav instalētas, nepieciešams tās uzinstalēt, aplūkojot attiecīgo d
 Atzipotajā mapē atvērt failu dev.exs, izmantojot kādu tekstapstrādes rīku, piemēram, Notepad++ un nomainīt "password" un "database" vērtības uz paroles un datubāzes nosaukuma vērtībām, kādas tika norādītas instalācijas procesā;  
 Atvērt cmd;  
 Palaist komandu cd <atzipotās_mapes_lokācija>  
-Palaist komandu mix phx.server
+Palaist komandu mix phx.server  
 Web aplikāciju iespējams lietot, pārlukprogrammā atverot URL localhost:4000/games
 
 Ekrānšāviņi un īss apraksts:
