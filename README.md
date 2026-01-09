@@ -55,3 +55,4 @@ Salīdzinājuma tabula:
 | Izstrādes ātrums  | Ātrs  | Samērā ātrs, bet ir jāapgūst funkcionālās programmēšanas koncepti  |
 | Reāllaika funkcijas  | Nepieciešams Django Channels  | Iebūvēta LiveView un Channels funkcionalitāte bez papildus konfigurācijas  |
 | Datubāze  | Django ORM, kas atbalst lielāko daļu lielo datubāzu | Ecto, PostgreSQL ir rekomendēts  |
+| Failu hierarhija  | Skaidra | Mazāk skaidra nekā Django (mūsuprāt)  |
